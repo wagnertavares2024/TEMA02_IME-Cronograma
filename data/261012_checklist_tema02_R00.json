@@ -1,0 +1,44 @@
+{
+  "titulo": "TEMA02_IME",
+  "atualizado_em": "2026-10-12",
+  "fonte": "Artigo_TEMA02_Etapas.docx (354 parágrafos)",
+  "secoes": [
+    {
+      "nome": "1. Material do IME (base do nosso estudo)",
+      "itens": [
+        {"indice": 1, "origem": "IME – Aula 01", "exigencia": "Método hipotético-dedutivo", "situacao": "Cumprido", "onde_esta": "H1 e H2 testáveis e refutáveis (seção 1.2)", "avanco": 100},
+        {"indice": 2, "origem": "IME – Aula 01 + UFES – Aula 04", "exigencia": "Classificação completa da pesquisa (natureza, finalidade, objetivos, procedimento, abordagem, objeto)", "situacao": "Parcial", "onde_esta": "Natureza/finalidade/temporalidade (UFES) e tipo/variáveis (IME) já escritos na seção 4.1; falta só a dimensão \"objeto/local\" explícita", "avanco": 85},
+        {"indice": 3, "origem": "IME – Aula 02", "exigencia": "Organização de arquivos: minúsculas, sem underline, sem acento, data no início", "situacao": "Cumprido", "onde_esta": "Convenção própria documentada (aammdd_NomeDoArquivo_tema02_R00.ext), substituindo por decisão consciente a regra literal do IME", "avanco": 100},
+        {"indice": 4, "origem": "IME – Como fazer Artigo Científico + Aula 02", "exigencia": "Tabela de verificação final", "situacao": "Cumprido", "onde_esta": "Artigo_TEMA02_Lista_Verificacao.xlsx existente", "avanco": 100},
+        {"indice": 5, "origem": "IME – Aula 02 + Como fazer Artigo Científico", "exigencia": "Mapa mental e mapa conceitual", "situacao": "Cumprido", "onde_esta": "Mapa conceitual (seção 5.4) e mapa mental estilo Buzan/Ashby prontos; SVG em Figuras\\261011_MapaMentalTema02_tema02_R01.svg", "avanco": 100},
+        {"indice": 6, "origem": "IME – Aula 02 (ProKnow-C)", "exigencia": "Planejar a bibliometria antes da busca (objetivo, bases, palavras-chave, critérios, outras fontes)", "situacao": "Parcial", "onde_esta": "9 eixos detalhados (seção 5.2); protocolo Parte 2 com blocos B1-B4 e primeira exportação Scopus real obtida (545 registros, bloco B1)", "avanco": 80}
+      ]
+    },
+    {
+      "nome": "2. Material das aulas UFES (complemento metodológico)",
+      "itens": [
+        {"indice": 7, "origem": "Construção própria + UFES – Aula 04", "exigencia": "Pergunta de pesquisa definida e refinada", "situacao": "Cumprido", "onde_esta": "Pergunta central aprovada, seção 1.1", "avanco": 100},
+        {"indice": 8, "origem": "UFES – Aula 04", "exigencia": "Objetivo geral com verbo de ação apropriado", "situacao": "Cumprido", "onde_esta": "Seção 2.1, com calibração explícita nos três parâmetros (E, D, F)", "avanco": 100},
+        {"indice": 9, "origem": "UFES – Aula 04", "exigencia": "Objetivos específicos com verbos de ação adequados (3 a 5 itens)", "situacao": "Cumprido", "onde_esta": "6 objetivos bem redigidos, sem redundância (seção 2.2); decisão de 11/10/2026: manter 6, teto \"3 a 5\" tratado como sugestão não vinculante", "avanco": 100},
+        {"indice": 10, "origem": "UFES – Aula 04", "exigencia": "Classificação por temporalidade (transversal / longitudinal)", "situacao": "Cumprido", "onde_esta": "Resolvida como transversal, seção 4.1(vi) — consistente com \"sem projeção temporal\" da seção 8.2", "avanco": 100},
+        {"indice": 11, "origem": "UFES – Aula 04 + IME – Aula 01", "exigencia": "Classificação por tipo (bibliográfica / descritiva / experimental)", "situacao": "Parcial", "onde_esta": "Respondida via framework do IME (\"associada e descritiva\"); gap de taxonomia da UFES ainda não registrado por escrito", "avanco": 50},
+        {"indice": 12, "origem": "UFES – Aula 04", "exigencia": "Identificação de variáveis (independente, dependente, controle)", "situacao": "Parcial", "onde_esta": "Tabela completa na seção 4.1(iv) — Resposta/Referência/Explicativas/Efeitos aleatórios/Latente", "avanco": 90},
+        {"indice": 13, "origem": "UFES – Aula 04", "exigencia": "Distinção entre variável teórica e variável operacional", "situacao": "Parcial", "onde_esta": "Resolvida na seção 4.1(v); pendente validação dos orientadores [A VALIDAR]", "avanco": 85},
+        {"indice": 14, "origem": "UFES – Aula 03 + IME – Aula 02", "exigencia": "Template de formatação ABNT aplicado (margens, fonte, seções, pré-textuais)", "situacao": "Não cumprido", "onde_esta": "Documento de etapas ainda não formatado conforme NBR 14724:2024", "avanco": 0}
+      ]
+    },
+    {
+      "nome": "3. Material de preparação de artigo científico (IME + Nature)",
+      "itens": [
+        {"indice": 15, "origem": "IME – Como fazer Artigo Científico", "exigencia": "Estrutura do artigo dentro da extensão-padrão (8–12 páginas)", "situacao": "Não cumprido", "onde_esta": "Ainda em fase de etapas/planejamento, não de redação final", "avanco": 0},
+        {"indice": 16, "origem": "IME – Aula 02 + Como fazer Artigo Científico", "exigencia": "Identificação do público-alvo e do guia de autores da revista-alvo (ex.: ANPET)", "situacao": "Parcial", "onde_esta": "Público-alvo definido na seção 5.3; revista-alvo e guia de submissão ainda não escolhidos", "avanco": 50},
+        {"indice": 17, "origem": "IME + UFES (NBR 6028)", "exigencia": "Resumo/abstract dentro do limite de palavras, sem citações/equações/abreviaturas", "situacao": "Parcial", "onde_esta": "Critério definido (máx. 150 palavras, Ashby/IME); resumo em si ainda não redigido", "avanco": 20},
+        {"indice": 18, "origem": "IME – Como fazer Artigo Científico", "exigencia": "Evidência explícita no desenvolvimento para cada afirmação feita na introdução", "situacao": "Não cumprido", "onde_esta": "Texto de desenvolvimento ainda não redigido", "avanco": 0},
+        {"indice": 19, "origem": "IME – Como fazer Artigo Científico", "exigencia": "Resultados com símbolos/unidades definidos e intervalo de confiança ou incerteza explicitados", "situacao": "Parcial", "onde_esta": "Priors, teste de Brant e propagação de incerteza já especificados na seção 7; falta aplicar ao texto de resultados", "avanco": 60},
+        {"indice": 20, "origem": "IME – Como fazer Artigo Científico", "exigencia": "Estilo de redação técnica (voz impessoal, sem gerúndios/modismos, períodos curtos)", "situacao": "Não cumprido", "onde_esta": "Ainda não revisado — texto final não redigido", "avanco": 0},
+        {"indice": 21, "origem": "IME – Como fazer Artigo Científico", "exigencia": "Lista de verificação do 1º esboço e do rascunho editado", "situacao": "Parcial", "onde_esta": "Artigo_TEMA02_Lista_Verificacao.xlsx existe; conteúdo coluna a coluna ainda não conferido contra a lista completa do Ashby", "avanco": 60},
+        {"indice": 22, "origem": "Nature – Guide to Authors", "exigencia": "Resumo estruturado no padrão Nature", "situacao": "Não cumprido", "onde_esta": "Relevante só se houver submissão a periódico de alto impacto", "avanco": 0}
+      ]
+    }
+  ]
+}
